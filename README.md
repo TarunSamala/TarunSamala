@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/752/617/100/back-window-bed-desk-wallpaper-preview.jpg" alt="MasterHead" width="900"/>
+<img src="https://c4.wallpaperflare.com/wallpaper/487/712/921/pixel-art-sun-building-sunset-wallpaper-preview.jpg" alt="MasterHead" width="1000"/>
 <h1 align="center">Helloo, I'm Tarun Samala</h1>
 <h3 align="center">Deep Learning Researcher, Reinforcement Explorer</h3>
 
