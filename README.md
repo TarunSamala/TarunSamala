@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)
+![MasterHead](https://giphy.com/embed/9PalpZKlDt5iNfnFXT)
 <h1 align="center">Helloo, I'm Tarun Samala</h1>
 <h3 align="center">Deep Learning Researcher, Reinforcement Explorer</h3>
 
