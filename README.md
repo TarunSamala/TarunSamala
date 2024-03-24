@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/embed/9PalpZKlDt5iNfnFXT)
+![MasterHead](https://giphy.com/gifs/xbox-xbox-series-s-xbxox-x-hollow-knight-silksong-9PalpZKlDt5iNfnFXT)
 <h1 align="center">Helloo, I'm Tarun Samala</h1>
 <h3 align="center">Deep Learning Researcher, Reinforcement Explorer</h3>
 
