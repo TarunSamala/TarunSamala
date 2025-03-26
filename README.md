@@ -2,8 +2,6 @@
 <h3 align="center">Deep Learning Researcher, Reinforcement Explorer</h3>
 
 
-- 🔭 I’m currently working on **Frontend for VIT-AP club**
-
 - 🌱 I’m currently learning **Reinforcement Learning, policy seeker**
 
 - 👯 I’m looking to collaborate on **Deep learning research**
@@ -12,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at github repository, more to come from my local files
 
-- 📫 How to reach me **instagram.com/tarun_samala**
+- 📫 How to reach me **tarunsamala.6435@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UXvAutQjfbhS4Z-Fku9fQbqWNwgavoB2/view?usp=sharing](https://drive.google.com/file/d/1UXvAutQjfbhS4Z-Fku9fQbqWNwgavoB2/view?usp=sharing)
 
